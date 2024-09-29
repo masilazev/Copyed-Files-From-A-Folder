@@ -1,0 +1,14 @@
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\bin\Debug\net8.0\PostAndStory.exe
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\bin\Debug\net8.0\PostAndStory.deps.json
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\bin\Debug\net8.0\PostAndStory.runtimeconfig.json
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\bin\Debug\net8.0\PostAndStory.dll
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\bin\Debug\net8.0\PostAndStory.pdb
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\obj\Debug\net8.0\PostAndStory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\obj\Debug\net8.0\PostAndStory.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\obj\Debug\net8.0\PostAndStory.AssemblyInfo.cs
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\obj\Debug\net8.0\PostAndStory.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\obj\Debug\net8.0\PostAndStory.dll
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\obj\Debug\net8.0\refint\PostAndStory.dll
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\obj\Debug\net8.0\PostAndStory.pdb
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\obj\Debug\net8.0\PostAndStory.genruntimeconfig.cache
+C:\Users\mathe\source\repos\PostAndStory\PostAndStory\obj\Debug\net8.0\ref\PostAndStory.dll

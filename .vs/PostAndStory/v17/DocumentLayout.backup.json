@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\PostAndStory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF702294-3B48-4AE4-A0CF-35CC5A86F592}|PostAndStory\\PostAndStory.csproj|c:\\users\\mathe\\source\\repos\\postandstory\\postandstory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF702294-3B48-4AE4-A0CF-35CC5A86F592}|PostAndStory\\PostAndStory.csproj|solutionrelative:postandstory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\PostAndStory\\PostAndStory\\Program.cs",
+              "RelativeDocumentMoniker": "PostAndStory\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\PostAndStory\\PostAndStory\\Program.cs*",
+              "RelativeToolTip": "PostAndStory\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:47:15.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
